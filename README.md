@@ -25,3 +25,7 @@ This project analyzes retail data to understand factors affecting profit margin 
 
 ##  Outcome
 This project demonstrates how data analysis and machine learning can support business decisions.
+
+##  Files
+- Superstore_analysis.ipynb → Main analysis notebook
+- Superstore.csv → Input dataset
